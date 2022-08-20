@@ -56,7 +56,7 @@
 <!-- Acknowledgments -->
 ### :handshake: Redes
 
- - [linkedin](https://www.linkedin.com/in/miguel-castillo-cortes/)
- - [platzi](https://platzi.com/p/miguelcastillocortes/)
- - [udemy](https://www.udemy.com/user/miguel-1578/)
+ - [Linkedin](https://www.linkedin.com/in/miguel-castillo-cortes/)
+ - [Platzi](https://platzi.com/p/miguelcastillocortes/)
+ - [Udemy](https://www.udemy.com/user/miguel-1578/)
 
