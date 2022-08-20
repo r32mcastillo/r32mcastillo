@@ -46,9 +46,9 @@
 <details>
   <summary>Portafolio</summary>
   <ul>
-    <li><a href="https://r32mcastillo.github.io/">mcastillo</a></li>
-    <li><a href="https://spring-boot2-heroku-mg.herokuapp.com/">Spring Boot</a></li>
-    <li><a href="https://r32mcastillo.github.io/reactpractico/">React Practico</a></li>
+    <li><a target="_blank" href="https://r32mcastillo.github.io/">mcastillo</a></li>
+    <li><a target="_blank" href="https://spring-boot2-heroku-mg.herokuapp.com/">Spring Boot</a></li>
+    <li><a target="_blank" href="https://r32mcastillo.github.io/reactpractico/">React Practico</a></li>
   </ul>
 </details>
 
