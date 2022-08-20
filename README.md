@@ -1,10 +1,7 @@
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/r32mcastillo/reactpractico/main/src/assets/logos/log-2.png" alt="logo" width="100" height="auto" />
-  <h1>Miguel Castillo Cortes</h1>
-  <p> Lic. en Tecnologías y Sistemas de Información.</p>
-  <h1></h1>
+<div align="right">
+  <img src="https://raw.githubusercontent.com/r32mcastillo/reactpractico/main/src/assets/logos/log-2.png" alt="logo" width="50" height="auto" />
 </div>
+
 
 <!-- TechStack -->
 ### :gem: Tecnologias
