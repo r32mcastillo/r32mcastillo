@@ -45,7 +45,10 @@
   <ul>
     <li><a target="_blank" href="https://r32mcastillo.github.io/">mcastillo</a></li>
     <li><a target="_blank" href="https://spring-boot2-heroku-mg.herokuapp.com/">Spring Boot</a></li>
-    <li><a target="_blank" href="https://r32mcastillo.github.io/reactpractico/">React Practico</a></li>
+    <li><a target="_blank" href="https://github.com/r32mcastillo/reactpractico">React Practico</a></li>
+    <li><a target="_blank" href="https://github.com/r32mcastillo/punks-interface">Avatars - web3 - Solidity</a></li>
+    
+    
   </ul>
 </details>
 
