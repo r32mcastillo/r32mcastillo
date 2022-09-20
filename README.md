@@ -4,7 +4,7 @@
 
 
 <!-- TechStack -->
-### :gem: Tecnologias
+### :gem: Tecnologías
 <details>
   <summary>Client</summary>
   <ul>
