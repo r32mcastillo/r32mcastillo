@@ -38,10 +38,10 @@
 </details>
 
 <!-- Acknowledgments -->
-### :space_invader: Mi Portafolio
+### :space_invader: Proyectos
 
 <details>
-  <summary>Portafolio</summary>
+  <summary>Proyectos</summary>
   <ul>
     <li><a target="_blank" href="https://r32mcastillo.github.io/">mcastillo</a></li>
     <li><a target="_blank" href="https://spring-boot2-heroku-mg.herokuapp.com/">Spring Boot</a></li>
