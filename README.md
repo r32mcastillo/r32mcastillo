@@ -9,15 +9,23 @@
 &#128400; Acerca de mi = "";
 
 &#128295; Tecnologías = {
-        Frontend : ["Angular","React"],
-        Backend  : ["Java", "Spring Framework"],
-        Web 3    : ["Solidity", "HardHat"]
+
+Frontend : ["Angular","React"],
+
+Backend  : ["Java", "Spring Framework"],
+
+Web 3    : ["Solidity", "HardHat"]
+
 }
 
 &#127912; Proyectos = [
+
 <a href="https://github.com/r32mcastillo/punks-interface-01">"Web3 - Avatars - Solidity"</a>,
+
 <a href="https://github.com/r32mcastillo/reactpractico">"React Practico"</a>,
-<a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Spring Boot"</a>,
+
+<a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Spring Boot"</a>
+
 ]
 
 &#128640; Sígueme en = {
