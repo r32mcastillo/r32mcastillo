@@ -1,62 +1,29 @@
 <div align="right">
   <img src="https://raw.githubusercontent.com/r32mcastillo/reactpractico/main/src/assets/logos/log-2.png" alt="logo" width="50" height="auto" />
 </div>
+<div align="right">
+<a href="https://r32mcastillo.github.io/">Web</a>
+</div>
 
 
-<!-- TechStack -->
-### :gem: Tecnologías
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li>JavaScript</li>
-    <li>Typescript</li>
-    <li>Angular</li>
-    <li>React</li>
-  </ul>
-</details>
+&#128400; Acerca de mi = "";
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>Java</li>
-    <li>Spring</li>
-  </ul>
-</details>
+&#128295; Tecnologías = {
+        Frontend : ["Angular","React"],
+        Backend  : ["Java", "Spring Framework"],
+        Web 3    : ["Solidity", "HardHat"]
+}
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li>MySQL</li>
-  </ul>
-</details>
+&#127912; Proyectos = [
+<a href="https://github.com/r32mcastillo/punks-interface-01">"Web3 - Avatars - Solidity"</a>,
+<a href="https://github.com/r32mcastillo/reactpractico">"React Practico"</a>,
+<a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Spring Boot"</a>,
+]
 
-<details>
-  <summary>Web 3</summary>
-  <ul>
-    <li>Solidity</li>
-  </ul>
-</details>
+&#128640; Sígueme en = {
 
-<!-- Acknowledgments -->
-### :space_invader: Proyectos
-
-<details>
-  <summary>Proyectos</summary>
-  <ul>
-    <li><a target="_blank" href="https://r32mcastillo.github.io/">mcastillo</a></li>
-    <li><a target="_blank" href="https://spring-boot2-heroku-mg.herokuapp.com/">Spring Boot</a></li>
-    <li><a target="_blank" href="https://github.com/r32mcastillo/reactpractico">React Practico</a></li>
-    <li><a target="_blank" href="https://github.com/r32mcastillo/punks-interface-01">Avatars - web3 - Solidity</a></li>
-    
-    
-  </ul>
-</details>
-
-
-<!-- Acknowledgments -->
-### :handshake: Redes
-
- - [Linkedin](https://www.linkedin.com/in/miguel-castillo-cortes/)
- - [Platzi](https://platzi.com/p/miguelcastillocortes/)
- - [Udemy](https://www.udemy.com/user/miguel-1578/)
-
+GitHub   : <a href="https://github.com/r32mcastillo">https://github.com/r32mcastillo</a>,
+        
+LinKedin : <a href="https://www.linkedin.com/in/miguel-castillo-cortes/">https://www.linkedin.com/in/miguel-castillo-cortes/</a>
+        
+}
