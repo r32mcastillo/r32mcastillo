@@ -20,11 +20,13 @@ Web 3    : ["Solidity", "HardHat"]
 
 &#127912; Proyectos = [
 
-<a href="https://github.com/r32mcastillo/punks-interface-01">"Web3 - Avatars - Solidity"</a>,
+<a href="https://r32mcastillo.github.io/eth-nft/">"Solidity - NTF - Avatars"</a>,
 
-<a href="https://github.com/r32mcastillo/reactpractico">"React Practico"</a>,
+<a href="https://r32mcastillo.github.io/eth-blog/">"Solidity - Blog"</a>,
 
-<a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Spring Boot"</a>
+<a href="https://r32mcastillo.github.io/reactpractico/">"React - Shop"</a>,
+
+<a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Java - Spring Boot"</a>
 
 ]
 
