@@ -20,7 +20,7 @@ Web 3    : ["Solidity", "HardHat"]
 
 &#127912; Proyectos = [
 
-<a href="https://r32mcastillo.github.io/eth-nft/">"Solidity - NTF - Avatars"</a>,
+<a href="https://r32mcastillo.github.io/eth-nft/">"Solidity - NFT - Avatars"</a>,
 
 <a href="https://r32mcastillo.github.io/eth-blog/">"Solidity - Blog"</a>,
 
