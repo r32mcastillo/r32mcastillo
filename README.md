@@ -26,6 +26,8 @@ Web 3    : ["Solidity", "HardHat"]
 
 <a href="https://r32mcastillo.github.io/reactpractico/">"React - Shop"</a>,
 
+<a href="https://r32mcastillo.github.io/react-heroes/">"React - heroes"</a>,
+
 <a href="https://spring-boot2-heroku-mg.herokuapp.com/">"Java - Spring Boot"</a>
 
 ]
