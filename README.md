@@ -1,11 +1,6 @@
 <div align="right">
   <img src="https://raw.githubusercontent.com/r32mcastillo/reactpractico/main/src/assets/logos/log-2.png" alt="logo" width="50" height="auto" />
 </div>
-<div align="right">
-<a href="https://r32mcastillo.github.io/">Web</a>
-</div>
-
-
 &#128400; Hola =) ;
 
 &#128295; Tecnologías = {
