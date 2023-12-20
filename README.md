@@ -6,7 +6,7 @@
 </div>
 
 
-&#128400; Acerca de mi = "";
+&#128400; Hola =) ;
 
 &#128295; Tecnologías = {
 
@@ -32,10 +32,3 @@ Web 3    : ["Solidity", "HardHat"]
 
 ]
 
-&#128640; Sígueme en = {
-
-GitHub   : <a href="https://github.com/r32mcastillo">https://github.com/r32mcastillo</a>,
-        
-LinKedin : <a href="https://www.linkedin.com/in/miguel-castillo-cortes/">https://www.linkedin.com/in/miguel-castillo-cortes/</a>
-        
-}
